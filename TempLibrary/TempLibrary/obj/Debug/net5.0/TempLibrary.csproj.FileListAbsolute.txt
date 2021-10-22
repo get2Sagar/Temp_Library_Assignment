@@ -1,0 +1,23 @@
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.deps.json
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\bin\Debug\net5.0\ref\TempLibrary.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.pdb
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfoInputs.cache
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfo.cs
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.csproj.CoreCompileInputs.cache
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\ref\TempLibrary.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.pdb
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.deps.json
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\bin\Debug\net5.0\ref\TempLibrary.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\bin\Debug\net5.0\TempLibrary.pdb
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.csproj.AssemblyReference.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfoInputs.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.AssemblyInfo.cs
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.csproj.CoreCompileInputs.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\ref\TempLibrary.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TempLibrary\obj\Debug\net5.0\TempLibrary.pdb

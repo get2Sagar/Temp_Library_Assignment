@@ -1,0 +1,206 @@
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\CoverletSourceRootsMapping
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.AssemblyReference.cache
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.AssemblyInfoInputs.cache
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.AssemblyInfo.cs
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.CoreCompileInputs.cache
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\testhost.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\testhost.exe
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.deps.json
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.runtimeconfig.json
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.runtimeconfig.dev.json
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ref\TestTemp.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.pdb
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.abstractions.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.assert.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.core.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.execution.dotnet.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TempLibrary.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\bin\Debug\net5.0\TempLibrary.pdb
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.CopyComplete
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\ref\TestTemp.dll
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.pdb
+E:\Socgen\dotnet-training-batch-3\C#\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.genruntimeconfig.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\CoverletSourceRootsMapping
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\testhost.exe
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\testhost.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.deps.json
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.runtimeconfig.json
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.runtimeconfig.dev.json
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ref\TestTemp.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TestTemp.pdb
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.abstractions.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.assert.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.core.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\xunit.execution.dotnet.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TempLibrary.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\bin\Debug\net5.0\TempLibrary.pdb
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.AssemblyReference.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.AssemblyInfoInputs.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.AssemblyInfo.cs
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.CoreCompileInputs.cache
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.csproj.CopyComplete
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\ref\TestTemp.dll
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.pdb
+E:\Socgen\Lab Assignments\Temp_Library_Assignment\Temp_Library_Assignment\TempLibrary\TestTemp\obj\Debug\net5.0\TestTemp.genruntimeconfig.cache
